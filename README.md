@@ -1,2 +1,2 @@
 # git-demo
-This is my first demo work at github.
+This is my first demo work at Github.
